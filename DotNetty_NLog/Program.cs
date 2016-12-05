@@ -15,7 +15,7 @@ namespace DotNetty_NLog
 {
     class Program
     {
-        //private static Logger LOGGER = LogManager.GetCurrentClassLogger();
+        private static Logger LOGGER = LogManager.GetCurrentClassLogger();
 
 
 
