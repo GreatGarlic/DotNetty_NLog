@@ -1,2 +1,2 @@
 # DotNetty_NLog
-DotNetty &amp; NLog Demo
+DotNetty &amp; Async NLog Demo
